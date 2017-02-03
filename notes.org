@@ -9,3 +9,4 @@
    -
 ** redeploying
    - need to restart their service to see changes (or they're very slow)
+     - web -> reload

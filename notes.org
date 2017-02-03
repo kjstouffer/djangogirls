@@ -7,3 +7,5 @@
 ** deploy!
    - screenshot isn't up-to-date
    -
+** redeploying
+   - need to restart their service to see changes (or they're very slow)

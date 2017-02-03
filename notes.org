@@ -1,4 +1,9 @@
 * install guide errata:
+** Your first Django project!
+   - where do I find my timezone?
 ** django-admin
    - stop server before creating superuser
    - start server after creating superuser
+** deploy!
+   - screenshot isn't up-to-date
+   -

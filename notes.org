@@ -1,0 +1,4 @@
+* install guide errata:
+** django-admin
+   - stop server before creating superuser
+   - start server after creating superuser
